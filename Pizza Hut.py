@@ -1,0 +1,18 @@
+#Pelanggan masuk ke website
+print("="*30)
+print("Selamat Datang Di PIzza Hut")
+print("="*30)
+#Pelanggan akan memilih toping
+print()
+print("|======================================================|")
+print("|               Silakan pilih toping Anda              |")
+print("|===========================|==========================|")
+print("|           Toping          |           Harga          |")
+print("|===========================|==========================|")
+print("|  1. Frankfurter           |  Rp. 43.000              |")
+print("|  2. Meat Monsta           |  Rp. 43.000              |")
+print("|  3. Super Supreme         |  Rp. 43.000              |")
+print("|  4. Super Supreme Chicken |  Rp. 43.000              |")
+print("|===========================|==========================|")
+int(input("  Silakan Pilih Pesanan Anda ( Masukan angka 1-4) : "))
+print("|======================================================|")
