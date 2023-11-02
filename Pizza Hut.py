@@ -4,7 +4,7 @@ print("Selamat Datang Di PIzza Hut")
 print("="*30)
 #Pelanggan akan memilih toping
 print()
-print("|======================================================|")
+print("+======================================================+")
 print("|               Silakan pilih toping Anda              |")
 print("|===========================|==========================|")
 print("|           Toping          |           Harga          |")
